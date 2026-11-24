@@ -5,13 +5,11 @@ body {
     background-color: #ffffff;
 }
 
-/* FALLO 6 corregido: contraste suficiente con el fondo blanco */
 .texto-secundario {
     color: #333333;
     font-size: 14px;
 }
 
-/* FALLO 7 corregido: el foco del teclado permanece visible */
 *:focus {
     outline: 3px solid #005fcc;
     outline-offset: 2px;
